@@ -1,0 +1,74 @@
+body {
+    background-color: #62DA97;
+    font-family: cursive;
+}
+
+h1 {
+    font-size:35px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    border: 3px solid whitesmoke;
+    border-radius: 5px;
+    margin: 190px;
+    padding: 10px;
+    color: white;
+}
+
+header h2 {
+    text-size-adjust: 25px;
+}
+
+footer {
+    background-color: black;
+
+}
+
+footer b {
+    color: white;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+}
+
+footer p:hover {
+    font-size: 19px;
+    border-bottom: 2px dotted blue;
+    border-top: 2px dotted blue;
+    padding: 2px;
+}
+
+nav p {
+    color: black;
+    text-align: center;
+}
+
+nav p:hover {
+    color: white;
+}
+
+.gg {
+    border: 4px double white;
+}
+
+.aa {
+    color: black;
+}
+
+.ww {
+    font-size: 16px;
+}
+
+.ww:hover {
+    color: rgb(255, 0, 0);
+    border: 3px solid rgb(255, 0, 0);
+    border-radius: 5px;
+}
+
+.ww:focus {
+    background-color: royalblue;
+}
